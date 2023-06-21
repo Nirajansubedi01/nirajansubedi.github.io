@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.sidebar{
+	background-color:#559F9A;
+	height:50px;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 50px;
+	align-items: center;
+.header a{
+	padding: 20px;
+	color: bisque;
+}
+.header a:hover{
+	color:#DC143C;
+}
+}
+
+.mailbox{
+	font-size:250%;
+	font-weight:bold;
+	
+	
+	
+}
+.content{
+	position:absolute;
+	top:50%;
+	left:10%;
+	height: 100vh;
+
+
+}
+.img{
+	height: 10px;
+	margin-left:750px;
+	margin-top:100px;
+}
+
+.web{
+	height: 100vh;
+}
+.intro{
+	width: 500px;
+  padding: 10px;
+  margin-left:200px ;
+  margin-top: 50px;
+  position: relative;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Poppins,sans-serif;
+}
+.qualification{
+width: 500px;
+  padding: 10px;
+  margin-left:200px ;
+  margin-top: 50px;
+  position: relative;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Poppins,sans-serif;
+
+}
+.skill{
+	width: 500px;
+  padding: 10px;
+  margin-left:200px ;
+  margin-top: 50px;
+  position: relative;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Poppins,sans-serif;
+}
+.buttons{
+	margin-left:900PX;
+
+}
+.logo img{
+	height: 30px;
+	
+display: inline-block;
+}
+.aaa img{
+	height: 300px;
+	
+}
+.contacts{
+	position: absolute;
+	position: fixed;
+	padding-top: 200px;
+	padding-left: 300px;
+	margin: 20px;
+}
+.xx img{
+	height: 30px;
+}
+.contacts img{
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.skill{
+	color: rgb(29, 58, 58);
+}
+.skill h2:hover{
+	color: #DC143C;
+}
+.skill ol li:hover{
+	color:#DC143C;
+}
+.contacts h1:hover{
+	color: #DC143C;
+}
+.contacts h3:hover{
+	color: #DC143C;
+}
+.intro h2:hover{
+	color: #DC143C;
+}
+.intro p:hover{
+	color: #DC143C;
+}
+.qualification h2:hover{
+	color: #DC143C;
+}
+.qualification ol li:hover{
+	color: #DC143C;
+}
